@@ -1,0 +1,33 @@
+.footer-img-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.footer_logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.footer_logo>p {
+    font-size: 50px;
+    color: white;
+}
+
+.footer_nav {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.footer {
+    padding: 15px;
+    background-color: black;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

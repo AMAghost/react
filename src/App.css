@@ -1,0 +1,26 @@
+
+
+.body {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  border: 1px rgb(201, 201, 201) solid;
+
+}
+
+.catalog {
+  margin-top: 30px;
+  gap: 30px;
+}
+
+.slider {
+  width: 800px;
+  height: 400px;
+  margin: auto;
+  padding: 2rem;
+}
+

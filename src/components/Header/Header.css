@@ -1,0 +1,30 @@
+.header-img-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.header_logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.header_logo>p {
+    font-size: 50px;
+    color: black;
+}
+
+.header_nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.header {
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
